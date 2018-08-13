@@ -1,0 +1,19 @@
+{
+  "name": "uni-help",
+  "version": "1.0.0",
+  "description": "gamification app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msellekAhmed/uniHelp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msellekAhmed/uniHelp/issues"
+  },
+  "homepage": "https://github.com/msellekAhmed/uniHelp#readme"
+}
